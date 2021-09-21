@@ -1,8 +1,7 @@
-<div>
+<div align="center">
   <a href="https://github.com/PauloHenriqueMagno">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueMagno&show_icons=true&include_all_commits=true&count_private=true">
-  <br />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueMagno&layout=compact&langs_count=9">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueMagno&show_icons=true&include_all_commits=true&count_private=true">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueMagno&layout=compact&langs_count=9">
 </div>
 <br />
 <div align="center">
