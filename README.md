@@ -1,10 +1,10 @@
-<div align="center" width="max-content">
+<div width="max-content">
   <a href="https://github.com/PauloHenriqueMagno">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueMagno&show_icons=true&include_all_commits=true&count_private=true">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueMagno&layout=compact&langs_count=9">
 </div>
 <br />
-<div align="center" width="max-content">
+<div width="max-content">
   <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
