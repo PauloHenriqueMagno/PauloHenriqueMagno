@@ -1,6 +1,7 @@
 <div>
   <a href="https://github.com/PauloHenriqueMagno">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueMagno&show_icons=true&include_all_commits=true&count_private=true">
+  <br />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueMagno&layout=compact&langs_count=9">
 </div>
 <br />
